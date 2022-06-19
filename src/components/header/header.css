@@ -40,14 +40,20 @@ header {
 /* ============ Me ===============*/
 
 .me {
-    background: linear-gradient(var(--color-primary), transparent);
-    width: 15rem;
+    /* background: linear-gradient(var(--color-primary), transparent); */
+    /* width: 15rem;
     height: 30rem;
     position: absolute;
     left: calc(50% - 8rem);
     margin-top: 4rem;
-    border-radius: 12rem 12rem 0 0;
-    overflow: hidden;
+    border-radius: 12rem 12rem 0 0; */
+    background: linear-gradient(var(--color-primary), transparent);
+    width: 30rem;
+    height: 21rem;
+    position: absolute;
+    left: calc(50% - 14rem);
+    margin-top: 2rem;
+    border-radius: 30% 70% 70% 30% / 30% 30% 70% 70%;
 }
 
 /* ============ Scroll Down ===============*/

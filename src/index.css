@@ -11,8 +11,8 @@ body {
 
 :root {
     --color-bg: #554247;
-    --color-bg-variant: #2c2c6c;
-    --color-primary: #D96B62;
+    --color-bg-variant: #593636;
+    --color-primary: #f37b83;
     --color-primary-variant: rgba(77, 181, 255, 0.4);
     --color-white: #fff;
     --color-light: rgba(255, 255, 255, 0.6);
@@ -76,7 +76,8 @@ section > h2 {
 
 a {
     color: var(--color-primary);
-    transition: var(--transition)
+    transition: var(--transition);
+    text-decoration: none;
 }
 
 a:hover {
@@ -92,6 +93,7 @@ a:hover {
     cursor: pointer;
     border: 1px solid var(--color-primary);
     transition: var(--transition);
+    text-decoration: none;
 }
 
 .btn:hover {
