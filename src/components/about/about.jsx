@@ -1,6 +1,6 @@
 import React from "react";
 import './about.css'
-import ME from '../../assets/me2.jpg'
+import ME from '../../assets/me3.png'
 import {BsAwardFill} from 'react-icons/bs'
 import {FiUsers} from 'react-icons/fi'
 import {MdOutlineFolderSpecial} from 'react-icons/md'
