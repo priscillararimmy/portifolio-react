@@ -61,7 +61,6 @@ header {
     position: absolute;
     right: -2.3rem;
     bottom: 5rem;
-    transform: rotate(90deg);
     font-weight: 300;
     font-size: 0.9rem;
 }
@@ -79,7 +78,29 @@ header {
     header {
         height: 100vh;
     }
-    .header__container, .scroll__down {
+    .header__socials, .scroll__down {
         display: none;
     }
+    .me {
+        width: 22rem;
+        left: calc(50% - 11rem)
+    }
+
+    /* .header__socials {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    text-align: center; 
+    font-size: 30px;
+    gap: 2.799999999999997rem;
+    position: absolute; 
+    left: calc(50% - 5rem);
+    margin-bottom: 8rem;
+    }
+
+    .header__socials::after{
+        display: none;
+    } */
+    
 }
