@@ -23,7 +23,7 @@ const About = () => {
                         <article className="about__card">
                             <FiUsers className="about__icon" />
                             <h5>Clientes</h5>
-                            <small>10+ Worldwide</small>
+                            <small>5+ </small>
                         </article>
                         <article className="about__card">
                             <MdOutlineFolderSpecial className="about__icon" />
@@ -33,8 +33,7 @@ const About = () => {
                     </div>
 
                    <p>
-                   Sou estudante do curso de Análise e Desenvolvimento, em processo de transição de carreira, nesse sentido busco desafios profissionais que venham enriquecer e fortalecer meus conhecimentos como desenvolvedora. Apaixonada por tecnologia, sou dedicada, focada e  estou em busca de aprender e evoluir sempre. 
-                   Experiências em programação com: HTML, CSS, WordPress, Bootstrap, JavaScrip, Typescript, NodeJS, ReactJ,  styled-components,  MUI styled, MongoDB, Moongose, GraphQL, SQL,  PostgreSQL.
+                   Sou estudante do curso de Análise e Desenvolvimento, em processo de transição de carreira, nesse sentido busco desafios profissionais que venham enriquecer e fortalecer meus conhecimentos como desenvolvedora. Apaixonada por tecnologia, sou dedicada, focada e busco aprender e evoluir sempre. 
                    </p>
                    <a href="#contact" className="btn btn-primary">Vamos conversar!</a>
                 </div>
