@@ -10,7 +10,7 @@
 <br>
 
 <p align="center">
-  <img alt="landing-page" src="https://github.com/priscillararimmy/portifolio-react/blob/main/screenshot/screencapture-localhost-3000-2022-06-21-14_06_40.png?raw=true" width="100%">
+  <img alt="landing-page" src="https://github.com/priscillararimmy/portifolio-react/blob/main/src/screenshot/screencapture-localhost-3000-2022-06-21-14_43_25.png?raw=true" width="100%">
 </p>
 
 ## 🚀 Requisitos
