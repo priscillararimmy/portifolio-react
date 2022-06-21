@@ -1,20 +1,16 @@
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 <p align="center">
  <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=49AA26&labelColor=000000" alt="PRs welcome!" />
 
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
-</p>
-
 <br>
 
 <p align="center">
-  <img alt="landing-page" src="" width="100%">
+  <img alt="landing-page" src="https://github.com/priscillararimmy/portifolio-react/blob/main/screenshot/screencapture-localhost-3000-2022-06-21-14_06_40.png?raw=true" width="100%">
 </p>
 
 ## 🚀 Requisitos
@@ -54,11 +50,7 @@ Este projeto é um portifolio em formato landing page, construído para consolid
 
 Criado por [EGATOR.](https://www.buymeacoffee.com/egator/e/56809)
 
-## 📝 Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE.md) para mais detalhes.
-
----
 
 Feito com ♥ by Priscilla Rarimmy :space_invader:
 
